@@ -7,7 +7,7 @@
 Вид | Название в colab | Уровень сборки | GC%
 ---|---|---|---
 Leishmania orientalis | GCA_017916335 | Chromosome | 59,7148
-Leishmania gerbilli | GCA_000443025 | Scaffold | 59,6
-Leishmania turanica | GCA_000441995 | Scaffold | 59,5
+Leishmania guyanensis | GCA_022701395 |  Chromosome | 57,4743
+Leishmania chagasi | GCA_014466975 |  Chromosome | 59,5567
 Leishmania panamensis | GCA_000755165 | Chromosome | 57,3879
 Leishmania donovani | GCA_00022713 | Chromosome | 59,1146
