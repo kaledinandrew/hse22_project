@@ -20,6 +20,10 @@ Leishmania donovani	| 8195	| 32444968	| 14824824	| 45.7
 Leishmania orientalis	| 8158	| 34194276	| 15803203	| 46.2
 Leishmania panamensis	| 8048	| 30688794	| 14547601	| 47.4
 
+# Участки Z-DNA
+
+Гистограмы расположены в тетрадке
+
 # Промотеры генов и Z-DNA
 
 Leishmania donovani
@@ -43,3 +47,7 @@ Leishmania sp. Namibia
 Всего кластеров: 8134
 
 ![image](https://user-images.githubusercontent.com/36156820/173923425-cefe3b41-10b7-4549-9f0b-fce675c2c3b2.png)
+
+# Визуализация Z-DNA для каждого кластера
+
+Графики визуализаций можно найти в ноутбуке
